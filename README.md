@@ -24,7 +24,7 @@ Once you have started the application, you will be presented with the main menu.
 2. **View Employees**: View a list of all employees currently in the system.
 
 3. **Calculate Employee Salary**: Calculate the monthly salary for an employee by providing the number of hours worked and their hourly rate.
-4. **Output** Output of the code
+4. **Output** Output of the code "employeeManagement.js"
 
    
     ![image](https://github.com/Prabhat1503/EmployeeManagement/assets/121659603/a4517c82-c550-445a-a690-27e1c1d29cc8)
