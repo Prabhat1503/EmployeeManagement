@@ -46,3 +46,7 @@ If you would like to contribute to the development of this project, please follo
 ---
 
 Thank you for using the Employee Management and Salary System. We hope it helps you efficiently manage employee records and calculate salaries within your organization.
+
+
+![image](https://github.com/Prabhat1503/EmployeeManagement/assets/121659603/3df8a3c6-2c94-42fe-a89b-88c16c880649)
+
