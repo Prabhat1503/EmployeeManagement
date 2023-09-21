@@ -24,8 +24,14 @@ Once you have started the application, you will be presented with the main menu.
 2. **View Employees**: View a list of all employees currently in the system.
 
 3. **Calculate Employee Salary**: Calculate the monthly salary for an employee by providing the number of hours worked and their hourly rate.
+4. **Output** Output of the code
 
-4. **Exit**: Exit the application.
+   
+    ![image](https://github.com/Prabhat1503/EmployeeManagement/assets/121659603/a4517c82-c550-445a-a690-27e1c1d29cc8)
+
+
+5. **Exit**: Exit the application.
+
 
 ## Data Storage
 
@@ -48,5 +54,4 @@ If you would like to contribute to the development of this project, please follo
 Thank you for using the Employee Management and Salary System. We hope it helps you efficiently manage employee records and calculate salaries within your organization.
 
 
-![image](https://github.com/Prabhat1503/EmployeeManagement/assets/121659603/3df8a3c6-2c94-42fe-a89b-88c16c880649)
 
